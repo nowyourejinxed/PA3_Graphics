@@ -1,0 +1,4 @@
+﻿  pyramid.cpp
+C:\Users\Sabrina\source\repos\Jackson-PA2\Jackson-PA2\pyramid.cpp(91,43): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+graphics.obj : error LNK2019: unresolved external symbol "public: void __cdecl Pyramid::Initialize(int,int)" (?Initialize@Pyramid@@QEAAXHH@Z) referenced in function "public: bool __cdecl Graphics::Initialize(int,int)" (?Initialize@Graphics@@QEAA_NHH@Z)
+C:\Users\Sabrina\source\repos\Jackson-PA2\x64\Debug\Jackson-PA2.exe : fatal error LNK1120: 1 unresolved externals
